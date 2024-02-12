@@ -2,6 +2,8 @@
 
 Hi there, I'm Raquel! 👋🏻 Olá, eu sou a Raquel! 👋🏻 Salut, je m'appelle Raquel! 👋🏻
 
+🐞 QA || Quality Analyst !! Software Testing
+
 🎓 Formada em Tecnologias e Programação em Sistemas de Informação, Direito e Moda
 
 👩🏻‍💻 Cursando Licenciatura em Informática de Gestão
