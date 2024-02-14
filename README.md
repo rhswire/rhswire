@@ -1,3 +1,5 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=696969&height=120&section=header"/>
+
 # 🐞 Raquel Swire Guimarães 🐞
 
 Hi there, I'm Raquel! 👋🏻 Olá, eu sou a Raquel! 👋🏻 Salut, je m'appelle Raquel! 👋🏻
